@@ -1,0 +1,10 @@
+    cocotb==1.9.2
+
+pytest
+scapy
+    cocotb-coverage
+
+    cocotb-test
+
+    pytest-html
+
